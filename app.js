@@ -51,3 +51,8 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 });
 
+const cuadricula = document.querySelector(".cuadricula");
+const resultado = document.querySelector("#resultado");
+var cartasEsogidas =[];
+var cartasEscogidasId =[];
+var cartasGanadas =[];
